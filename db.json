@@ -1,0 +1,69 @@
+{
+    "sorular": {
+    "ders":"Türkçe",
+    "testADI":"Kazanım Değerlendirme Testi",
+        "soru": [
+            {
+                "Resimli":0,
+                "soruID":"tr2515",
+                "soruText": "[indent][indent]• Birbiri ardınca sıralanan eş görevli kelime ve kelime gruplarının arasına konur.\n• Sıralı cümleleri birbirinden ayırmak için kullanılır. \n• Uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek için konur. \n• Ara sözlerin veya ara cümlelerin başına ve sonuna konur.\n[/indent][b]Aşağıdaki cümlelerde kullanılan virgüllerden hangisi yukarıdaki açıklamalardan farklı bir nedenle kullanılmıştır?[/b]",
+                "A": "Her yaz doğduğu yere, Muğla’ya, giderdi.",
+                "B": "Çalıştık, çabaladık, en sonunda başardık.",
+                "C": "Şiirde sevgiden, özlemden, uçup giden dakikalardan söz etmek ayıp sayılırdı.",
+                "D": "Konya’ya yarın gideceğim, dedi.",
+                "Cevap": "D"
+            },
+            {
+                "Resimli":1,
+                "soruID":"tr2515",
+                "soruText": "[indent][indent]• Bu masa örtüsü çok bile dayandı.\n• Müdür, koltuğa dayanmış, onu dinliyordu.\n• Ağaçlar;  sele, fırtınaya iyi dayandı.\n• Bu yakmaya odun mu dayanır.\n• Bu gemi fırtınaya iyi dayanır.[/indent]\n[b]Verilen cümlelerdeki “dayanmak” sözcüğü kaç farklı anlamda kullanılmıştır?[/b]",
+                "A": "5",
+                "B": "4",
+                "C": "3",
+                "D": "2",
+                "Cevap": "B"
+            },
+            {
+                "Resimli":1,
+                "soruID":"tr2516",
+                "soruText": "[indent][indent]• Anlamına göre eylemler, iş(kılış), oluş ve durum olmak üzere üçe ayrılır.\n• Herhangi bir nesneye etki edebilen eylemler, iş(kılış) bildiren eylemlerdir.[/indent]\nI. Mete, gözleri yolda onları bekliyordu. II. Öteki işçiler yere çömelmişlerdi. III. Şemsi, sırtını ağacın gövdesine dayamıştı. IV. Gri bir duman ağacın koyu renk dallarının arasından süzülüyordu.\n[b]Bu bilgilere göre yukarıda numaralanmış cümlelerden hangileri kılış bildiren eylem değildir?[/b]",
+                "A": "I. ve II. ",
+                "B": "II. ve III.",
+                "C": "I. ve IV. ",
+                "D": "II. ve IV. ",
+                "Cevap": "D"
+            },
+            {
+                "Resimli":1,
+                "soruID":"tr2515",
+                "soruText": "[indent][indent]Bir cümlede sözcüklerin yanlış yerde kullanılması anlatım bozukluğuna yol açar.[/indent]\n[b]Yukarıdaki açıklamayı karşılayan bir anlatım bozukluğu seçeneklerin hangisinde vardır?[/b]",
+                "A": "Gizli sırlarımı kimseyle paylaşmayacağım.",
+                "B": "Bu saate kadar mutlaka gelmiş olabilirler.",
+                "C": "Yeni eve girmiştim ki telefonum çaldı.",
+                "D": "İki sene önce ektiğimiz fidanlar yeni meyve verdi.",
+                "Cevap": "C"
+            },
+            {
+                "Resimli":0,
+                "soruID":"tr2515",
+                "soruText": "[indent]Güneş sisteminde bulunan sekiz gezegenin büyüklüklerine göre sıralanışını gösteren fen bilimleri öğretmeni daha sonra şu bilgileri öğrencileriyle paylaşmıştır:\n[indent]• Jüpiter, en büyük gezegendir.\n• Jüpiter ile Uranüs arasında Satürn vardır.\n• Dünya, beşinci sıradadır.\n• Dünya ile Mars arasında Venüs vardır.\n• Merkür, en küçük gezegendir.[/indent]\n[b]Fen bilimleri öğretmeninin yaptığı bu açıklamaya göre aşağıda verilen yargılardan hangisi doğrudur?[/b]",
+                "A": "Uranüs ikinci sıradadır.  ",
+                "B": "Satürn dördüncü sıradadır.",
+                "C": "Mars yedinci sıradadır.",
+                "D": "Neptün sekizinci sıradadır.",
+                "Cevap": "C"
+            },
+            {
+                "Resimli":0,
+                "soruID":"tr2515",
+                "soruText": "[indent][indent]Deyimlerin eylem olarak kullanılmasıyla oluşmuş birleşik eylemlere deyim biçiminde (anlamca kaynaşmış) birleşik eylemler denir. Genellikle ad soylu bir sözcükle bir fiilin kalıplaşıp anlamca kaynaşmasıyla oluşur. Çoğu mecaz anlamlıdır. Bazen de isim ve fiilin ikisi de anlamını kaybedebilmektedir. Bu durumda birleşik fiili oluşturan sözcükler bitişik yazılır.[/indent]\n[b]Bu bilgilere göre aşağıdakilerin hangisinde deyim biçiminde birleşik eylem yoktur?[/b]",
+                "A": "En sonunda kararından vazgeçirebildik.",
+                "B": "Kendine dikkat etmezsen hasta olursun.",
+                "C": "Dün akşam çocuğun gözünü korkutmuşlar.",
+                "D": "Paranın yerinde artık yeller esiyordu. ",
+                "Cevap": "B"
+            }
+             
+        ]
+    }
+}
