@@ -1,69 +1,68 @@
 {
-    "sorular": {
-    "ders":"Türkçe",
-    "testADI":"Kazanım Değerlendirme Testi",
-        "soru": [
-            {
-                "Resimli":0,
-                "soruID":"tr2515",
-                "soruText": "[indent][indent]• Birbiri ardınca sıralanan eş görevli kelime ve kelime gruplarının arasına konur.\n• Sıralı cümleleri birbirinden ayırmak için kullanılır. \n• Uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek için konur. \n• Ara sözlerin veya ara cümlelerin başına ve sonuna konur.\n[/indent][b]Aşağıdaki cümlelerde kullanılan virgüllerden hangisi yukarıdaki açıklamalardan farklı bir nedenle kullanılmıştır?[/b]",
-                "A": "Her yaz doğduğu yere, Muğla’ya, giderdi.",
-                "B": "Çalıştık, çabaladık, en sonunda başardık.",
-                "C": "Şiirde sevgiden, özlemden, uçup giden dakikalardan söz etmek ayıp sayılırdı.",
-                "D": "Konya’ya yarın gideceğim, dedi.",
-                "Cevap": "D"
-            },
-            {
-                "Resimli":1,
-                "soruID":"tr2515",
-                "soruText": "[indent][indent]• Bu masa örtüsü çok bile dayandı.\n• Müdür, koltuğa dayanmış, onu dinliyordu.\n• Ağaçlar;  sele, fırtınaya iyi dayandı.\n• Bu yakmaya odun mu dayanır.\n• Bu gemi fırtınaya iyi dayanır.[/indent]\n[b]Verilen cümlelerdeki “dayanmak” sözcüğü kaç farklı anlamda kullanılmıştır?[/b]",
-                "A": "5",
-                "B": "4",
-                "C": "3",
-                "D": "2",
-                "Cevap": "B"
-            },
-            {
-                "Resimli":1,
-                "soruID":"tr2516",
-                "soruText": "[indent][indent]• Anlamına göre eylemler, iş(kılış), oluş ve durum olmak üzere üçe ayrılır.\n• Herhangi bir nesneye etki edebilen eylemler, iş(kılış) bildiren eylemlerdir.[/indent]\nI. Mete, gözleri yolda onları bekliyordu. II. Öteki işçiler yere çömelmişlerdi. III. Şemsi, sırtını ağacın gövdesine dayamıştı. IV. Gri bir duman ağacın koyu renk dallarının arasından süzülüyordu.\n[b]Bu bilgilere göre yukarıda numaralanmış cümlelerden hangileri kılış bildiren eylem değildir?[/b]",
-                "A": "I. ve II. ",
-                "B": "II. ve III.",
-                "C": "I. ve IV. ",
-                "D": "II. ve IV. ",
-                "Cevap": "D"
-            },
-            {
-                "Resimli":1,
-                "soruID":"tr2515",
-                "soruText": "[indent][indent]Bir cümlede sözcüklerin yanlış yerde kullanılması anlatım bozukluğuna yol açar.[/indent]\n[b]Yukarıdaki açıklamayı karşılayan bir anlatım bozukluğu seçeneklerin hangisinde vardır?[/b]",
-                "A": "Gizli sırlarımı kimseyle paylaşmayacağım.",
-                "B": "Bu saate kadar mutlaka gelmiş olabilirler.",
-                "C": "Yeni eve girmiştim ki telefonum çaldı.",
-                "D": "İki sene önce ektiğimiz fidanlar yeni meyve verdi.",
-                "Cevap": "C"
-            },
-            {
-                "Resimli":0,
-                "soruID":"tr2515",
-                "soruText": "[indent]Güneş sisteminde bulunan sekiz gezegenin büyüklüklerine göre sıralanışını gösteren fen bilimleri öğretmeni daha sonra şu bilgileri öğrencileriyle paylaşmıştır:\n[indent]• Jüpiter, en büyük gezegendir.\n• Jüpiter ile Uranüs arasında Satürn vardır.\n• Dünya, beşinci sıradadır.\n• Dünya ile Mars arasında Venüs vardır.\n• Merkür, en küçük gezegendir.[/indent]\n[b]Fen bilimleri öğretmeninin yaptığı bu açıklamaya göre aşağıda verilen yargılardan hangisi doğrudur?[/b]",
-                "A": "Uranüs ikinci sıradadır.  ",
-                "B": "Satürn dördüncü sıradadır.",
-                "C": "Mars yedinci sıradadır.",
-                "D": "Neptün sekizinci sıradadır.",
-                "Cevap": "C"
-            },
-            {
-                "Resimli":0,
-                "soruID":"tr2515",
-                "soruText": "[indent][indent]Deyimlerin eylem olarak kullanılmasıyla oluşmuş birleşik eylemlere deyim biçiminde (anlamca kaynaşmış) birleşik eylemler denir. Genellikle ad soylu bir sözcükle bir fiilin kalıplaşıp anlamca kaynaşmasıyla oluşur. Çoğu mecaz anlamlıdır. Bazen de isim ve fiilin ikisi de anlamını kaybedebilmektedir. Bu durumda birleşik fiili oluşturan sözcükler bitişik yazılır.[/indent]\n[b]Bu bilgilere göre aşağıdakilerin hangisinde deyim biçiminde birleşik eylem yoktur?[/b]",
-                "A": "En sonunda kararından vazgeçirebildik.",
-                "B": "Kendine dikkat etmezsen hasta olursun.",
-                "C": "Dün akşam çocuğun gözünü korkutmuşlar.",
-                "D": "Paranın yerinde artık yeller esiyordu. ",
-                "Cevap": "B"
-            }
-             
-        ]
-    }
+  "sorular": {
+    "ders": "Türkçe",
+    "testADI": "Kazanım Değerlendirme Testi",
+    "soru": [
+      {
+        "Resimli": "iVBORw0KGgoAAAANSUhEUgAAAfQAAAFUCAYAAADSys5kAAAACXBIWXMAAAsSAAALEgHS3X78AAAUvElEQVR4nO3dT6hd1b0H8K1IUBGJVsRXaMCRfZ0lw3QmdtJCC3XS0lk7jB3ZvjcplIKjVx0Zh3ZW6kThFdqJxVkzTGbvtSPBPEoRqxLESBB9fI9n3axsz79779439/z8fOCS5N5z19l7nbC/a6291tr33Hz53OcDALDX7vXxAcD+E+gAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0AChDoAFCAQAeAAgQ6ABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgALuO8lTeOPax8Nbf/9kuPrOreHa9VsH3z//jTPDk4/dN1z4xpnhh+cfXPydO7305o3h6vVbw4cff7b4fuqxlzp85MF7h/PnzhzU4z7IeTz32vvDBx9/NvzimYeH57/zsE8e4Ajuufnyuc/nrriE909+997w9nufbn1twvx/fv31uQ9p7zzw83cOdcipxxe+f/bUB/u3fvOPO/5f5LPXoAM4vNmvnOmBfe/yu3d87+yD9y56kf1rmn3pWd5N6Y0//c37h0ceuH3HJL331GPrwSck04i6/KNHh599+6G9ObcPb352Co4CYP/MGugJl4RKkyB64Qdnh6efuv9Lr00v/tW/frTyZ9xpXR1G6vBXf/zwINgznJ3XntZe7/PPPLw4xkjD43zX0ANgd7Ne5V/8y42DYEmg/Pm5xxe981VyIU9vkuNJKF44d2a4+F//PCjn1SsfLYbfT6Mcb2ucGGoHOLpZZ7m/9bfbQ+npia0Lc6aVxlE/zH7tnVunuoYT5MIc4HhmTdh+JrsL9snqh+THM+IBqOfEUnYxk/mp6crLUH7uFyes3v7Xp4vy22S7LN362cWHtjYisoyu3ePPkHRbMpVy85UGSYLxT889vvj+eILfzZfPbT3OfnZ6yjmpOQKHGQ1J3bUlhS38W11mkuIuk+r6z6Mtr2vLEXPO68rYpU7XfU75/uvL48775b1yvL9YMRqUc3zpLze++P+ynFWf43t2eX5Gj4B9N2ug50LeAiIX+6lmW48nfjX5dwulrNvOhX/TveNVF/FM0Er5+66vm00Nm13qMq955cePrp2wlobPdy+/+6Uy8v18JXjzs6OuMd/1c1qE9ps3Ft/PfI12vPleznHVcecrjYJN8zsA9sGsV7B+CVpbiz6+6B9WLuT5auXkIpyGQoJ73NPKhbyfZb9NC4MK+mH2TTPi+7rM61KP47pcF9jDMkT7n6Xx0BpS+fxbGVMuR+zDfLGE76n77/jc+9UVeW0L87wmrx3XRzs/gH02aw89odCGrodup7gMiR5lmLMNhTf98GuTmfJ9jyzvmb9vm+WdYftWdhsizvE9soe9tpxzX0+ZkLjqNW25WM7z9z997EtBlzpL0F1bDqGnHscrEV7qVjLk91POOFzTA55qDkVbObHqmPugb+vwc57Div8rLfRbw6ctm9ynNfsAvdnTqh/6HJYX0gTDv/3n/y0uwLtO2Gq/1+TivG4IdzzUnoDftktdC4Jc0HOvOz3KhMW+rYvOuV5aBvWwrItVYdq/ZlWYD13QN6mjcT2+vgzMYVl340ZaG0GZSgvzP6+Yj5DGRv+9Fub5/vj/Sju3vm7e6M4FYN/MHui5cF75jycWATu+2CcgMiEqX9uCPa/th3W39bjHQZae5Db7shY+wZPg7r/S20wjqb8fvm4OQV+Xq4age6nDPpDHoXfcWyhHkRGedQ2tceMh/17XoFg0Ni7e/pnVAMA+O7FZ7gmXNgSfjU76nl6bfLVpEtsdPcGLu/X48rrWq9/lYr0vw63b7vO3menrgvqwW+2eH23T2/d287N2S+XFN2986X72HDYd8/ict60qyBa6wx9v/zvnYrc6YB+d6A3iXOgTBnkAx6ph3nWzkYfRmvYsS9tF/7o0ILb1JqtsO9svzVr382aXc+5HOq5ev3OTmjs2sLl+a7j423/OPrFw0/34VUP+m4zD+4O7MOIAMIW7tttLeln5Srj0s99fWvbyNm2Msmvwjl93dbmufJ192fxmvJ69LTFLD7lNYOv3R++NGzZ52tlhjBtFKb9NKBuW5ee9c4sjIyTWeAOcjLt+pU0wXfnlE3dc9E1OOpzUXRpHmavQB3hGO8Y99czmn1rmHYxnt+d98/7//pt/+DwBTsCp6JK2iVfpnQ/L++Ue1HI0mYPw+nIjl3wlTDdt6DLVQ1vaiEu/y97QLQ87yV3yAL6KTs0Ycy72LdDHw7oXRvc5d524dNSh+n3Wlon1jaM+0Mfr6o+6e9s6bVZ5GhKXuk1rMgyfuRMAzONU3txcNbGpv7/dP8Vtk/4pY1PMXB6H4bXrm59itm3t+1z6hku7p96M62Gu4fD01l/pRllSF3erPgC+Ck5NoPe96XGPfBiFVJa9bZuxvnhYyJXbs62fnWDr0XEYbmtY3K17x+ORiPFIRb/s6/UZj3G8vGyO+/cAfOHEHp+67XX9UqdV64z77UvbhKtN+glhU+5W1of6poZFzunFHTazmUsf6uOe8XijmLmWmY3r5smveYQuwFxmDfTvLneBW7Vl6LC84Odeb/9wjwTmqvAd7w636Slh4ydxrXqc5lH1Pf2cU+4Tj88t793O6W4t2erX4K+aS9DX8WKZ2Zs3No565BxXNdDyGaxruPWNrnx+nokPMJ/ZrrDtkZn9M7YXF/VlLy0beIyDIOGXx3Sukwlc/UNU2tPRErIpNz9rM7ybBNeUE79SVr/TXc4zX61HfLW7Z93WYLcJaifpwmh3t3HjIo2jq+/cOvgMEr4ZUbiwfHpZk/NpYZ7zuTy6L962n23PPc/n8MHNL2bX9w0dqxYA5jVboLeJbP1FfdPEqIRBLvrbenGL13ztvoPe3+Je+Yoh47x/ewzo1LLm+tIf3r+jQTLuBbdtbO9GmA8rblvk+PrvtT32U4/96oK+ATY2/n5//vlcX31v/edgyRrAvGYL9FzAs0wpF/1MHksY9L3y1lvP0HB62IeZhZ6wXKx5vvLRYiZ76xWnjNZTfLZ7FvfU8j552lcaEn0A5vsXzp1Z3O9f1TA56QeZpI7axLwc66q5CYtGz8WHDh5tm1GO1ujqP6P8OZ5YmPLyGbffbZ9D6r319PMaQ+0A87vn5svnPlfPALDfbLINAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ABQgEAHgAIEOgAUINABoACBDgAFCHQAKECgA0ABAh0ACrjvJE7hrb9/Mnzv8rs7v/6F758dnv/Ow1tf9+HHnw2v/vWjRflXr99a/Pv8N84MF86dGX727YcWf9/VlGUd19vvfTq8ce3jxXHk79eu31qU2I4nf+aYppDPJefc/Om5x4enn7p/p5JPU50BfNWdSKBfe+fW5GUmRH7yu/cWIXLHe12/tfhK0KRRkMbBSZZ1HHmvX/33h3cE7KrjiRzTKz9+9Fih+dKbN9a+1zanpc4A+MKJBHovAfTIg5tH+s9u+Xl6rwmT5snH7ht+eP7B4ZEH7h1ev/bxQeglsBI4l3/06ImUNYU+YFNXT3/z/sWxvP2vTxc/S499WAZnjvvKL5/YWl+rpJwX/3LjSEd82uoMgBMK9KvXb/fQ//zc40cKoCYBcem19w/+naHdPjDSK0yQ/OqPHy7+nZ5ihpATOHOWNYUEeL6ePf/g4j0SlGP98SSUW0/4sJ577f3F+ec9zj5w70EIn2T9AzCdE5kU1w/LHifMI0HRyktQrOr9JVT6e8wtXOYsaypp8OQ9V4X5quN59cpHh37n9LDbSMDzzzy86P3v6jTWGQAnFOgtPHadbLVOm4TVbOqZ9vdu+4llzZRlTWmXBk9fj20Ifld9DzuNhgTv+D74Oqe1zgDYs2VrfZgs7i9vaCAkGPth3tzbnaOslPPAz985+Mpw8yYJtsO8ft3xHNWl5VD7MArdXUxZ/wBMa/ZA7yd5HbeH3t+Lz2SxbS50M8DHM+2nKis93D64MtFsU6/50h9u339OfRzl/nf//oe5N52h9jeWwXqU+9pT1j8A09qrHnrfOLiww3Kt8+duv2a8PGvKsl750aMHveb0ftfdM05vvA095/VHmf2d8vvZ6YdZM96G2o/63lPWGQDTmj3Q+55ZJl8l1NpXLvK73r8djjC5brw8rv/9KcvK77/SBWTfE27Gy8R+8cz6iW/rpL4u/vafB++dHvauG8z0Q+051sO+9zBxnQEwrdmXrX1w8/ZFvL8H22tDz5t6m+NJVbv0TMebrmTIOL83ZVnND5dLzVqQJ0Dz8xZ849nh24baU1ft9eM16MNyqH/Xe+B9A6Md52HNUWcATGf2QN/l3mnCKl/jNc29Dybs3U1ZVi8932vL7Vrb0HvOpw/UBPzvf/rY1rL6pWW9NhqwayiPh9pfOeImL3PVGQDTmD3QX/jB2S/11NoypgRWZj+3nmh6pQmdfd0utN2bbvvWt01V+nvq/f32o0hdZZe2BHrqadvQ+Xio/bj7AABwOs0e6Kv2Gk8Ite1Cs7FJAqrfLjQhuK9Ds204vS1H6wP1MMPdeUhKk9+/umwAtaH41oPPRjTr9nOfYqgdgP1w17trCfbxdrDjCWXDiglWR9HKmLKsVfoJby3MjzPcnd9NQyE98v/99dcPAjxlf/fyuysnm/Wz7Y/z3s3cdQbA8ZyKK2wCp5+tfXXFffdxL3SXncfGr2llTFnWKuNNVYblMq8phrtTRhpAfYNh1WTDfj38FEPtc9cZAMdz4k9bWyc90DZMvS4sEkqtN7rLJK0PNiyzmrKssRz/eAe4DI9n5GGKYe9FA+jiQwc98MxD6GfNj9+/fzLaNv1z6/OZ9EP/c9YZAMezV1fZw+481r9mvBHKlGX12qS1pp8L0N9PP65+05ZxA2iuGelz1RkAx3dqeuj9Gut1Q7MJx7aUa9wrXaXfP3w8yW7Ksnr9UHdelyVq2QymLWVLqO+ybO04nvzafYdaKdDPws+tj/z+sKJXPVedAXB8pybQ+4lw6/YJz3B1C5/0SvO1LvzHT/gaD3VPWVaTsOuHurNkry3Da732NvP8uEPvm/bIz/31w+wR3wd6jmtd+M5RZwBM41QMuWdSVx9QuT+8SoKqD5sXNzyprA+p/M54vfaUZQ3LofbnXrv94JUEagu7cUged+g9QdlPhDup3u/UdQbAdGYN9PRW+y1Mx9rSqj4It22Wkl5vk55u/7v9+/Y9/v535iqrH2rP8WfpWu/y6AEul1a8V6uLTTPI0/Dpl6q1Z5qflCnrDIDp3HPz5XOfz1Wf3/rNPw5CLr3VC+fOHNyfbRul9GG/aevXXhoJfZC0TWoeeeDe4dUrH91xPz7lbQq8KcrKefSzw3OPfNUQc4Ku77mOX9fXV45jUWfLXv6q/dzbErbjLgfLc9mbzGrf1uOfsv4BmMZsgZ6Lev9ksE3afebDXPjHoTJ2mDKPU1bOr016G5bD65smvSX42+2FlJuNYvJnfr/fMW+bhO7lIz41beywgT5MXP8AHN+sPfRhOSyb3niWMKWXOe6x58+jXvRTVnqEb/3tk4MgbNvGJlgPE3ZHLSsh3D945covn9j4vnmf9MSbcQNgscf93z5Z1FkaCy38U0+PLHeMy6TBKTdpOUqgDxPXPwDHM3ugAwDzs30XABQg0AGgAIEOAAUIdAAoQKADQAECHQAKEOgAUIBAB4ACBDoAFCDQAaAAgQ4ABQh0AChAoANAAQIdAAoQ6ACw74Zh+H+mj4GXetZ+oAAAAABJRU5ErkJggg==",
+        "soruID": "tr0001",
+        "soruText": "[indent][indent]• Birbiri ardınca sıralanan eş görevli kelime ve kelime gruplarının arasına konur.\n• Sıralı cümleleri birbirinden ayırmak için kullanılır. \n• Uzun cümlelerde yüklemden uzak düşmüş olan özneyi belirtmek için konur. \n• Ara sözlerin veya ara cümlelerin başına ve sonuna konur.\n[/indent][b]Aşağıdaki cümlelerde kullanılan virgüllerden hangisi yukarıdaki açıklamalardan farklı bir nedenle kullanılmıştır?[/b]",
+        "A": "Her yaz doğduğu yere, Muğla’ya, giderdi.",
+        "B": "Çalıştık, çabaladık, en sonunda başardık.",
+        "C": "Şiirde sevgiden, özlemden, uçup giden dakikalardan söz etmek ayıp sayılırdı.",
+        "D": "Konya’ya yarın gideceğim, dedi.",
+        "Cevap": "D"
+      },
+      {
+        "Resimli": "",
+        "soruID": "tr0002",
+        "soruText": "[indent][indent]• Bu masa örtüsü çok bile dayandı.\n• Müdür, koltuğa dayanmış, onu dinliyordu.\n• Ağaçlar;  sele, fırtınaya iyi dayandı.\n• Bu yakmaya odun mu dayanır.\n• Bu gemi fırtınaya iyi dayanır.[/indent]\n[b]Verilen cümlelerdeki “dayanmak” sözcüğü kaç farklı anlamda kullanılmıştır?[/b]",
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2",
+        "Cevap": "B"
+      },
+      {
+        "Resimli": "",
+        "soruID": "tr0003",
+        "soruText": "[indent][indent]• Anlamına göre eylemler, iş(kılış), oluş ve durum olmak üzere üçe ayrılır.\n• Herhangi bir nesneye etki edebilen eylemler, iş(kılış) bildiren eylemlerdir.[/indent]\nI. Mete, gözleri yolda onları bekliyordu. II. Öteki işçiler yere çömelmişlerdi. III. Şemsi, sırtını ağacın gövdesine dayamıştı. IV. Gri bir duman ağacın koyu renk dallarının arasından süzülüyordu.\n[b]Bu bilgilere göre yukarıda numaralanmış cümlelerden hangileri kılış bildiren eylem değildir?[/b]",
+        "A": "I. ve II. ",
+        "B": "II. ve III.",
+        "C": "I. ve IV. ",
+        "D": "II. ve IV. ",
+        "Cevap": "D"
+      },
+      {
+        "Resimli": "",
+        "soruID": "tr0004",
+        "soruText": "[indent][indent]Bir cümlede sözcüklerin yanlış yerde kullanılması anlatım bozukluğuna yol açar.[/indent]\n[b]Yukarıdaki açıklamayı karşılayan bir anlatım bozukluğu seçeneklerin hangisinde vardır?[/b]",
+        "A": "Gizli sırlarımı kimseyle paylaşmayacağım.",
+        "B": "Bu saate kadar mutlaka gelmiş olabilirler.",
+        "C": "Yeni eve girmiştim ki telefonum çaldı.",
+        "D": "İki sene önce ektiğimiz fidanlar yeni meyve verdi.",
+        "Cevap": "C"
+      },
+      {
+        "Resimli": "",
+        "soruID": "tr0005",
+        "soruText": "[indent]Güneş sisteminde bulunan sekiz gezegenin büyüklüklerine göre sıralanışını gösteren fen bilimleri öğretmeni daha sonra şu bilgileri öğrencileriyle paylaşmıştır:\n[indent]• Jüpiter, en büyük gezegendir.\n• Jüpiter ile Uranüs arasında Satürn vardır.\n• Dünya, beşinci sıradadır.\n• Dünya ile Mars arasında Venüs vardır.\n• Merkür, en küçük gezegendir.[/indent]\n[b]Fen bilimleri öğretmeninin yaptığı bu açıklamaya göre aşağıda verilen yargılardan hangisi doğrudur?[/b]",
+        "A": "Uranüs ikinci sıradadır.  ",
+        "B": "Satürn dördüncü sıradadır.",
+        "C": "Mars yedinci sıradadır.",
+        "D": "Neptün sekizinci sıradadır.",
+        "Cevap": "C"
+      },
+      {
+        "Resimli": "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",
+        "soruID": "tr0006",
+        "soruText": "[indent][indent]Deyimlerin eylem olarak kullanılmasıyla oluşmuş birleşik eylemlere deyim biçiminde (anlamca kaynaşmış) birleşik eylemler denir. Genellikle ad soylu bir sözcükle bir fiilin kalıplaşıp anlamca kaynaşmasıyla oluşur. Çoğu mecaz anlamlıdır. Bazen de isim ve fiilin ikisi de anlamını kaybedebilmektedir. Bu durumda birleşik fiili oluşturan sözcükler bitişik yazılır.[/indent]\n[b]Bu bilgilere göre aşağıdakilerin hangisinde deyim biçiminde birleşik eylem yoktur?[/b]",
+        "A": "En sonunda kararından vazgeçirebildik.",
+        "B": "Kendine dikkat etmezsen hasta olursun.",
+        "C": "Dün akşam çocuğun gözünü korkutmuşlar.",
+        "D": "Paranın yerinde artık yeller esiyordu. ",
+        "Cevap": "B"
+      }
+    ]
+  }
 }
